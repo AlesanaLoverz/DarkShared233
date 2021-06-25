@@ -55,13 +55,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 #EXTINF:-1 group-title="Nasional",BeritAa SAtU
 http://gpc.my.id/vidio/beritasatu.m3u8
-#EXTINF:-1 group-title="Nasional",RRi
+#EXTINF:-1 group-title="Nasional",RRinet
 http://gpc.my.id/usee/rrinet.m3u8
 
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+#EXTINF:-1 group-title="Nasional",BeritAa SAtU2
 https://etslive-2-vidio-com.akamaized.net/exp=1624585354~acl=/hls-p/ingest_6165_*/*~hmac=28ffba024e9367ce666c51a2bfca065cb49c03ba460df585a3f1b46b035d19fb/hls-p/ingest_6165_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://etslive-2-vidio-com.akamaized.net/exp=1624585354~acl=/hls-p/ingest_6165_*/*~hmac=28ffba024e9367ce666c51a2bfca065cb49c03ba460df585a3f1b46b035d19fb/hls-p/ingest_6165_480p/index.m3u8
